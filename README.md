@@ -24,8 +24,8 @@ A complete RESTful API built with Express.js for managing products. This API inc
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
-cd express-restful-api
+git clone https://github.com/PLP-MERN-Stack-Development/week-2-express-js-assignment-CHEGEB
+cd PLP-MERN-Stack-Development/week-2-express-js-assignment-CHEGEB
 ```
 
 2. Install dependencies:
@@ -59,7 +59,7 @@ http://localhost:3000
 ### Authentication
 Protected routes require an API key in the request headers:
 ```
-x-api-key: your-secret-api-key
+x-api-key: my-secret-api-key
 ```
 
 ### Product Schema
